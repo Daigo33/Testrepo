@@ -1,2 +1,3 @@
 #print
-print*#Hellow New system, Git Hub")
+print("Hellow New system, Git Hub")
+# Revised print codee
