@@ -1,2 +1,2 @@
 #print
-print*#Hellow New system, Git Hub")
+print("Hello New system, Git Hub") #Fixed some code
